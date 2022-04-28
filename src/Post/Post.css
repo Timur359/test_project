@@ -1,0 +1,29 @@
+.post__post {
+    width: 350px;
+    margin: 10px auto;
+    border: 1px solid royalblue;
+    border-radius: 10px;
+    outline: none;
+    color: white;
+}
+
+.post__delete {
+    cursor: pointer;
+    background-image: url('../images/delete.svg');
+    background-size: 100%;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border: none;
+}
+
+.post__edit {
+    cursor: pointer;
+    background-image: url('../images/edit.svg');
+    background-size: 100%;
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border: none;
+    margin-left: 20px;
+}
